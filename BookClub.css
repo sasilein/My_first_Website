@@ -1,0 +1,102 @@
+header {
+    background-color: #ffffff;
+    box-shadow: 0 01px 10px -3px rgb(89, 107, 57);
+
+    margin-bottom: 5vw;
+    background-image: url("360_F_51809533_kwlkmfX4ZdMiflDcfxtSjgw76rFzSq33.jpg");
+    background-size: 32vw;
+
+}
+
+h1:first-letter {
+    font-size: 20dvh;
+    font-family: 'Brush Script MT', cursive;
+}
+
+h1 {
+    font-size: 7dvh;
+    left: 50px;
+    color: #ffffff;
+    text-shadow: #68a104 3px 3px 0;
+
+}
+
+main {
+    margin-right: 250px;
+    margin-left: 250px;
+    text-align: justify;
+    margin-bottom: 70vw;
+    font: 100%/1.5 sans-serif;
+
+}
+
+.button {
+    font: 100%/1.5 sans-serif;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+
+    padding: 0.4rem 0.9rem;
+    border-radius: 0.3rem;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #68a104;
+    margin: 1vw;
+    transition: all 0.2s ease;
+
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease;
+
+    width: 100px;
+
+}
+
+.button:hover {
+    background-color: rgba(186, 203, 157, 0.96);
+}
+
+.bp {
+    position: absolute;
+}
+
+footer {
+    background-color: #68a104;
+    color: white;
+    height: 100px;
+    box-shadow: 0 01px 10px -3px rgb(89, 107, 57);
+    font: 100%/1.5 sans-serif;
+}
+
+#Header:link {
+    font-size: 7dvh;
+    left: 50px;
+    color: #ffffff;
+    text-shadow: #68a104 3px 3px 0;
+}
+
+#Header:visited {
+    font-size: 7dvh;
+    left: 50px;
+    color: #ffffff;
+    text-shadow: #68a104 3px 3px 0;
+}
+#Header:hover{
+    font-size: 7dvh;
+    left: 50px;
+    color: #ffffff;
+    text-shadow: rgba(104, 161, 4, 0.56) 3px 3px 0;
+    
+}
+#Header{
+    text-decoration: none;
+}
+
+#message{
+    width: 30vw;
+    height: 15vw;
+}
+
+
+    
+
